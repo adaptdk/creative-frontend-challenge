@@ -1,4 +1,4 @@
-# Adapt Frontend Coding Challenge
+# Creative Adapt Frontend Coding Challenge
 
 Seems like you're trying out for a position at
 [Adapt](https://adapt.dk/en) or you've found this and would like to
