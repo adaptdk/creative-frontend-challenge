@@ -4,27 +4,36 @@ Seems like you're trying out for a position at
 [Adapt](https://adapt.dk/en) or you've found this and would like to
 apply.  Fork this repo and go at it ;)
 
-Your goal is to provide a functional form in a static HTML file which
-asks the user to provide some of their personal information. The form is
-a bespoke page with no visual relation to the client's website (you can
-use any typefaces, colours, animations and illustrations as you see
-fit). The collected data does not have to be stored (for the purposes of
-this challenge -- in the real world it would be).
+Your goal is to create 2 component prototypes similar to as provided in these two gifs:
+
+Fold out menu
+
+![Fold out menu](https://media.giphy.com/media/3o751PDdemBbux86n6/giphy.gif)
+
+Slide over search
+
+![Slide over search]https://media.giphy.com/media/l0HUhx2T0IWKQr2Ew/giphy.gif
 
 ## Brief
 
-As a user of the form I would like to provide necessary data so that I
-would have a way of keeping in touch with the company I am interested
-in. The form should collect 5 things:
+1. Fold out menu
 
-1.  Full name
-2.  E-mail address
-3.  Date of birth
-4.  Up to 5 favourite brands (user can type them in)
-5.  Choose any of the four categories: Science, Advertisement, Politics,
-    Events
+1. Menu button that expands the fold-out menu
+2. Two level-accordeon menu
+
+Bonus points for no images used (css-only). Think what is the best user experience for such menu. Try to copy design of the provided gif or create something of your own that would maintain the same functionality principle.
+
+2. SLide over search
+
+1. A row with logo, menu, search icon (trigger that opens the search)
+2. Search opens and replaces menu (takes width of the menu)
+3. Search icon changes to close icon
+
+Bonus points for no images used (css-only). Think what is the best user experience for such search functionality. Try to copy design of the provided gif or create something of your own that would maintain the same functionality principle.
 
 ## Requirements
+
+*   You have the full freedom on HTML, CSS, JS and design.
 
 *   You can use any libraries, task runners and build processes you
     like. Bonus points for custom JS (vanilla, ES6 encouraged, but no
@@ -39,5 +48,5 @@ in. The form should collect 5 things:
 *   Looks and design (aesthetics)
 *   UX design (usability, accessibility, user experience)
 *   Programming skills
-*   _Huge bonus:_ Innovative solution, form that's easy and fun to use
+*   _Huge bonus:_ Innovative solution, easy and fun to use
 
