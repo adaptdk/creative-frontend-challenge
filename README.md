@@ -12,7 +12,7 @@ Fold out menu
 
 Slide over search
 
-![Slide over search]https://media.giphy.com/media/l0HUhx2T0IWKQr2Ew/giphy.gif
+![Slide over search](https://media.giphy.com/media/l0HUhx2T0IWKQr2Ew/giphy.gif)
 
 ## Brief
 
