@@ -16,14 +16,14 @@ Slide over search
 
 ## Brief
 
-**Fold out menu
+### Fold out menu
 
 1. Menu button that expands the fold-out menu
 2. Two level-accordeon menu
 
 Bonus points for no images used (css-only). Think what is the best user experience for such menu. Try to copy design of the provided gif or create something of your own that would maintain the same functionality principle.
 
-**SLide over search
+### SLide over search
 
 1. A row with logo, menu, search icon (trigger that opens the search)
 2. Search opens and replaces menu (takes width of the menu)
