@@ -48,5 +48,4 @@ Bonus points for no images used (css-only). Think what is the best user experien
 *   Looks and design (aesthetics)
 *   UX design (usability, accessibility, user experience)
 *   Programming skills
-*   _Huge bonus:_ Innovative solution, easy and fun to use
 
